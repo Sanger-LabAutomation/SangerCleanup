@@ -61,7 +61,7 @@ SLACKMESSENGER_V2::_InitLibrary();
 GITHUBINTEGRATIONS::_InitLibrary();
 ::RegisterAbortHandler( "OnAbort");
 // }} ""
-// {{ 1 1 0 "69aaaaaa_76a5_4d92_ada065f94fd1eee0" "{F07B0071-8EFC-11d4-A3BA-002035848439}"
+// {{ 1 1 0 "57671b3f_b94b_47c8_ba07e5029a835a50" "{F07B0071-8EFC-11d4-A3BA-002035848439}"
 
 // }} ""
 // {{ 2 1 0 "ada4b90e_1fdc_4d8e_856b942a8bd5bde4" "{586C3429-F931-405f-9938-928E22C90BFA}"
@@ -73,26 +73,26 @@ GITHUBINTEGRATIONS::_InitLibrary();
 // {{ 4 1 0 "17f02550_c551_4c94_97754849dd2969f9" "{B31F3543-5D80-11d4-A5EB-0050DA737D89}"
 u_intMaxPlateNumber = 2;
 // }} ""
-// {{ 5 1 0 "53e24221_6f2c_4665_a2f48bab4f82c698" "{B31F3543-5D80-11d4-A5EB-0050DA737D89}"
-u_intNuncDeadVolume_Loading = 20;
+// {{ 5 1 0 "cea464fb_1071_49d9_91b17b9f0ccf30f5" "{B31F3543-5D80-11d4-A5EB-0050DA737D89}"
+u_intNuncDeadVolume_Loading = 35;
 // }} ""
-// {{ 6 1 0 "5d92e22a_ec8a_477f_b94892329f92572c" "{B31F3543-5D80-11d4-A5EB-0050DA737D89}"
-u_intBeadVolume_Loading = 70;
+// {{ 6 1 0 "07d04de3_0ef9_46d4_93a17e87d3b4756e" "{B31F3543-5D80-11d4-A5EB-0050DA737D89}"
+u_intBeadVolume_Loading = 55;
 // }} ""
 // {{ 7 1 0 "9b8733c6_d3dd_4858_a1017bb553c0324d" "{B31F3543-5D80-11d4-A5EB-0050DA737D89}"
 u_intEBVolume_Loading = 50;
 // }} ""
-// {{ 8 1 0 "c07f7f13_82a9_4326_bc9718c0ec5c610b" "{B31F3543-5D80-11d4-A5EB-0050DA737D89}"
+// {{ 8 1 0 "c849c35e_17f0_4b5d_979f12cfda288250" "{B31F3543-5D80-11d4-A5EB-0050DA737D89}"
 u_intEtOHVolume_Loading = 100;
 // }} ""
-// {{ 9 1 0 "a0e8f601_ea9b_4052_8af68ad7ad5fcbd1" "{B31F3543-5D80-11d4-A5EB-0050DA737D89}"
-u_intTipsRequired = 576;
+// {{ 9 1 0 "262ed026_7dec_4d6f_9cd165258e2a8786" "{B31F3543-5D80-11d4-A5EB-0050DA737D89}"
+u_intTipsRequired = 480;
 // }} ""
-// {{ 10 1 0 "311134e7_430d_463b_bd324864be0a51e0" "{B31F3543-5D80-11d4-A5EB-0050DA737D89}"
+// {{ 10 1 0 "26727414_9b1d_425e_bb082e17196b5967" "{B31F3543-5D80-11d4-A5EB-0050DA737D89}"
 u_strMagnetType = Translate("Alpaqua 96S Ring Magnet");
 // }} ""
-// {{ 11 1 0 "6f9560a6_ed85_4ed9_97c56a55aaf6dad3" "{B31F3543-5D80-11d4-A5EB-0050DA737D89}"
-u_strWorkflowName = Translate("WGS_PCR");
+// {{ 11 1 0 "fc54f3d0_fe1b_4381_b4f2f79c5ebaf3c1" "{B31F3543-5D80-11d4-A5EB-0050DA737D89}"
+u_strWorkflowName = Translate("ISC_Post_Cap_PCR");
 // }} ""
 // {{ 12 1 0 "f14f4531_de90_4b82_97ac141dfc62e191" "{F07B0071-8EFC-11d4-A3BA-002035848439}"
 
@@ -242,4 +242,4 @@ GITHUBINTEGRATIONS::_ExitLibrary();
 // {{{ 5 "main" "End"
 } }
 // }} ""
-// $$author=kn7$$valid=0$$time=2026-10-01 09:37$$checksum=2024ed2d$$length=082$$
+// $$author=kn7$$valid=0$$time=2026-09-29 15:51$$checksum=5fd1e2ab$$length=082$$
