@@ -76,14 +76,14 @@ u_intMaxPlateNumber = 2;
 // {{ 5 1 0 "c6e26dcb_370e_4e51_a7f876b79ed7415c" "{B31F3543-5D80-11d4-A5EB-0050DA737D89}"
 u_intNuncDeadVolume_Loading = 20;
 // }} ""
-// {{ 6 1 0 "79492aaf_5198_40db_b9bbdc6545ca69d2" "{B31F3543-5D80-11d4-A5EB-0050DA737D89}"
-u_intBeadVolume_Loading = 50;
+// {{ 6 1 0 "97cec0a4_6d29_4e71_96480d98300789e3" "{B31F3543-5D80-11d4-A5EB-0050DA737D89}"
+u_intBeadVolume_Loading = 80;
 // }} ""
-// {{ 7 1 0 "9b8733c6_d3dd_4858_a1017bb553c0324d" "{B31F3543-5D80-11d4-A5EB-0050DA737D89}"
-u_intEBVolume_Loading = 50;
+// {{ 7 1 0 "bfee78ca_9f6f_45b4_822f29123ed77349" "{B31F3543-5D80-11d4-A5EB-0050DA737D89}"
+u_intEBVolume_Loading = 100;
 // }} ""
-// {{ 8 1 0 "aaf28b12_88ba_444d_aca287ae41ab3506" "{B31F3543-5D80-11d4-A5EB-0050DA737D89}"
-u_intEtOHVolume_Loading = 50;
+// {{ 8 1 0 "7cf35b8b_f819_460f_8060d34d030ca307" "{B31F3543-5D80-11d4-A5EB-0050DA737D89}"
+u_intEtOHVolume_Loading = 200;
 // }} ""
 // {{ 9 1 0 "262ed026_7dec_4d6f_9cd165258e2a8786" "{B31F3543-5D80-11d4-A5EB-0050DA737D89}"
 u_intTipsRequired = 480;
@@ -242,4 +242,4 @@ GITHUBINTEGRATIONS::_ExitLibrary();
 // {{{ 5 "main" "End"
 } }
 // }} ""
-// $$author=Hamilton$$valid=0$$time=2026-10-02 13:55$$checksum=c9d01cb6$$length=087$$
+// $$author=Hamilton$$valid=0$$time=2026-10-02 14:31$$checksum=70f09e50$$length=087$$

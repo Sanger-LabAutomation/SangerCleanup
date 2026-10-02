@@ -6,7 +6,7 @@
 #include "HSLStrLib.hsl"
 #include "HSLTimLib.hsl"
 #include "HSLML_STARLib.hsl"
-#include "HSLEmailUtilLib\\HSLEmailUtilLib.hsl"
+#include "SangerCleanup\\Libraries\\HSLEmailUtilLib\\HSLEmailUtilLib.hsl"
 /* {{ 2 "LibraryInsertLine" "" */ // }} ""
 // {{ 2 "TemplateIncludeBlock" ""
 #include "HSLMETEDLib.hs_"
@@ -443,4 +443,4 @@ EmailUtilLib::ChangeRecieverAddress(Translate("ch33@sanger.ac.uk"));
 // {{{ 2 "LibraryNamespace" "End"
 } // library namespace
 // }} ""
-// $$author=ch33$$valid=0$$time=2026-09-01 10:22$$checksum=f76fa9b8$$length=083$$
+// $$author=Hamilton$$valid=0$$time=2026-10-02 14:23$$checksum=b41c36de$$length=087$$
